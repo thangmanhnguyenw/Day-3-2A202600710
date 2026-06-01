@@ -1,0 +1,21 @@
+{
+  "date": "2026-06-02",
+  "home": "QBT",
+  "stops": [
+    {
+      "time": "08:00",
+      "location": "Q1",
+      "title": "Đi làm / họp sáng"
+    },
+    {
+      "time": "12:00",
+      "location": "Q3",
+      "title": "Ăn trưa"
+    },
+    {
+      "time": "17:30",
+      "location": "QBT",
+      "title": "Về nhà"
+    }
+  ]
+}
